@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/HeyPuter/puter/compare/v2.2.0...v2.2.1) (2024-04-24)
+
+
+### Bug Fixes
+
+* **security:** always use application/octet-stream ([74e213a](https://github.com/HeyPuter/puter/commit/74e213a534dbf2844c8cebeee7eb59ec70de306e))
+
 ## [2.2.0](https://github.com/HeyPuter/puter/compare/v2.1.1...v2.2.0) (2024-04-23)
 
 
